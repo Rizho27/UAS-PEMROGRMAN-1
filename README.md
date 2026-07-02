@@ -67,7 +67,7 @@ UAS_Pemrograman1
 
 ---
 
-## 💾 Database
+## Database
 
 Import file berikut ke phpMyAdmin
 
