@@ -118,7 +118,11 @@ database/hotel_reservasi.sql
 
 ## Dibuat Oleh
 **RIZHO MUHAMMAD IKHSAN**
+
 **SETIAJI RIZKI FAUZI**
+
 **MUHAMAD YUSUF SAPUTRA**
+
 **IRHANDA ARI RAMADHAN**
+
 **SIX SEVEN FELIX SIHOTANG**
