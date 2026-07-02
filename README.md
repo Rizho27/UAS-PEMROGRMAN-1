@@ -3,9 +3,13 @@
 Project UAS Mata Kuliah **Pemrograman 1** menggunakan **Java NetBeans** dan **MySQL**.
 ## Dibuat Oleh
 **RIZHO MUHAMMAD IKHSAN**
+
 **SETIAJI RIZKI FAUZI**
+
 **MUHAMAD YUSUF SAPUTRA**
+
 **IRHANDA ARI RAMADHAN**
+
 **SIX SEVEN FELIX SIHOTANG**
 
 ## Deskripsi
