@@ -12,6 +12,8 @@ Project UAS Mata Kuliah **Pemrograman 1** menggunakan **Java NetBeans** dan **My
 
 **SIX SEVEN FELIX SIHOTANG**
 
+**DENY HIDAYATULLAH**
+
 ## Deskripsi
 
 Aplikasi ini dibuat untuk membantu proses reservasi hotel, mulai dari pengelolaan data kamar, data tamu, reservasi, pembayaran, hingga menampilkan laporan data pembayaran.
